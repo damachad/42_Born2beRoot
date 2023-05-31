@@ -2,8 +2,8 @@
 Born2beRoot project from 42 school's common core
 
 This project consisted of setting up a server, using a Virtual Machine and following specific rules.  
-The main topics were:  
--Setting up encrypted partitions using LVM;  
+The main goals were to:  
+-Set up encrypted partitions using LVM;  
 -Configure a firewall (UFW for Debian);  
 -Install a SSH service (OpenSSH);  
 -Implement a strong password policy (passw);  
