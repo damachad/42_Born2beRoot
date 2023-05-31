@@ -6,7 +6,7 @@ The main goals were to:
 -Set up encrypted partitions using LVM;  
 -Configure a firewall (UFW for Debian);  
 -Install a SSH service (OpenSSH);  
--Implement a strong password policy (passw);  
+-Implement a strong password policy (passwd_policy);  
 -Set up a configuration for sudo (sudo_config);  
 -Create and manage users and groups;  
 -Create a simple script (monitoring.sh) in bash to display information about the server on all terminals at a regular interval (using cron);
